@@ -1,0 +1,12 @@
+# FarmTech Solutions - Fase 7
+# ---------------------------------------------------------------
+# Pessoa 1 (Fases 1, 2 e 3): roda apenas com a biblioteca padrao
+# do Python 3 (sqlite3, urllib, csv, json, math, random, pathlib).
+# Nao precisa instalar nada via pip para a parte da P1.
+#
+# A analise estatistica (analise_r.R) usa apenas R base - basta ter
+# o R instalado (https://cran.r-project.org/).
+#
+# As Fases 4, 5 e 6 (Pessoas 2 e 3) adicionam suas dependencias
+# abaixo desta linha (ex.: streamlit, scikit-learn, ultralytics, boto3).
+# ---------------------------------------------------------------
