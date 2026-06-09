@@ -96,7 +96,10 @@ def treinar_modelo_irrigacao(df_dados: pd.DataFrame) -> RandomForestClassifier:
 
     print(f"[ML] Modelo treinado com {len(X_train)} amostras.")
     print(f"[ML] Acuracia no conjunto de teste: {acuracia:.2%}")
-    print(classification_report(y_test, predicoes, target_names=["Desligada", "Ligada"]))
+    labels_presentes = sorted(y_test.unique())
+    nomes = {0: "Desligada", 1: "Ligada"}
+    target_names = [nomes[l] for l in labels_presentes]
+    print(classification_report(y_test, predicoes, labels=labels_presentes, target_names=target_names))
 
     return modelo
 
