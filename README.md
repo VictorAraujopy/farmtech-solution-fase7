@@ -230,23 +230,24 @@ O modelo `RandomForestClassifier` (100 estimadores, split 80/20) é treinado com
 
 **Tópico SNS com subscription Lambda confirmada:**
 
-![SNS] ![Print SNS](image.png)
+[Print SNS](image.png)
 
 **Função Lambda com trigger SNS e variáveis de ambiente:**
 
-![Lambda]![Print Lambda](image-3.png)
+[Print Lambda](image-3.png)
 
 **E-mail verificado no SES:**
 
-![SES]! [Print SES](image-4.png)
+ <img width="1400" height="851" alt="image" src="https://github.com/user-attachments/assets/50c04c5f-49e0-4ee5-9a6f-277db73332f0" />
+
 
 **CloudWatch Logs — execução com sucesso (0 erros):**
 
-![CloudWatch] ![Print Cloud Watch](image-1.png)
+ ![Print Cloud Watch](image-1.png)
 
 **E-mail chegando na caixa de entrada:**
 
-![Email] ![print Gmail](image-2.png)
+ ![print Gmail](image-2.png)
 
 ### Segurança — ISO 27001/27002
 
