@@ -230,11 +230,11 @@ O modelo `RandomForestClassifier` (100 estimadores, split 80/20) é treinado com
 
 **Tópico SNS com subscription Lambda confirmada:**
 
-[Print SNS](image.png)
+![Print SNS](image.png)
 
 **Função Lambda com trigger SNS e variáveis de ambiente:**
 
-[Print Lambda](image-3.png)
+![Print Lambda](image-3.png)
 
 **E-mail verificado no SES:**
 
