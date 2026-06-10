@@ -3,7 +3,23 @@
 Sistema integrado de gestão agrícola inteligente desenvolvido para a disciplina de IA da FIAP.
 Integra sensores IoT, banco de dados relacional, machine learning, visão computacional e alertas em nuvem AWS em uma única dashboard Streamlit.
 
-> 🎥 **Vídeo demonstrativo:** [INSERIR LINK DO YOUTUBE]
+> 🎥 **Vídeo demonstrativo:** https://youtu.be/Q8yuNqUwU9M
+
+---
+
+## Integrantes
+
+- Jacqueline Nanami Matushima — RM568498
+- Pedro Zanon Castro Santana — RM567350
+- Victor Araujo Ferreira da Silva — RM567619
+
+## Professores
+
+### Tutor(a)
+- Sabrina Otoni
+
+### Coordenador(a)
+- André Godoi Chiovato
 
 ---
 
@@ -271,11 +287,9 @@ Quando uma detecção é identificada, o sistema pode disparar automaticamente u
 
 ## 🔗 Links
 
-- 🎥 **Vídeo demonstrativo:** [INSERIR LINK DO YOUTUBE]
+- 🎥 **Vídeo demonstrativo:** https://youtu.be/Q8yuNqUwU9M
 - 📂 **Repositório:** https://github.com/VictorAraujopy/farmtech-solution-fase7
 
 ---
-
-## 👥 Grupo
 
 Projeto desenvolvido para a disciplina de IA — FIAP 2026.
